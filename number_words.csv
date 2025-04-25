@@ -1,0 +1,1001 @@
+Number,Word1,Word2,Word3,Word4,Word5
+000,sauces,oasis is (phrase),excesses,zizzles,ceases
+001,zest,assist,soused,ceased,iced tea (phrase)
+002,season,ozone,assassin,saison,sunnies
+003,sesame,assume,sea sum (phrase),isthmus,ice mummy (phrase)
+004,Caesar,saucer,scissor,zeros,assessors
+005,social,Cecil,seashell,icicle,uselessly
+006,sausage (s-s-j),cease-fire (s-s-f-r),ice safe (phrase),gas valve (phrase),Josephus (j-s-f-s)
+007,seasick,Saskia (name),gas cooker (phrase),ice sack (phrase),sociology (s-s-l-j)
+008,sausage,assuage,sea sash (phrase),cease judge (phrase),Izzy judge (phrase)
+009,ice soap (phrase),subspace (s-b-s-p-s),assess pay (phrase),Sisyphus (s-s-f-s)
+010,status,seeds,assets,studios,sedates
+011,statue,studded,sided,sedate,study
+012,satin,stone,stain,sedan,sudden
+013,stadium,steam,system,item (t-m),sedum
+014,stair,store,straw,cedar,sitter
+015,steel,stile,stall,saddle,stole
+016,staff,stove,stiff,positive (p-s-t-v),sad foe (phrase)
+017,steak,stick,stock,stag,attic (t-k)
+018,stage,stitch,stash,statue show (phrase),side judge (phrase)
+019,stop,step,stab,stub,side-B (phrase)
+020,snooze,snows,signs,since,science
+021,saint,scent,send,snout,sundae
+022,onion (n-n),zenana (z-n-n),Sununu (name),nun (n-n),noon (n-n)
+023,cinema,snowmobile (s-n-m-b-l),sunbeam (s-n-b-m),Sinemia (name),San Mateo (s-n-m-t)
+024,snail,snare,sneer,sinner,owner (n-r)
+025,snail,analyze (n-l-z),sunlight (s-n-l-t),channel (ch-n-l),zonal
+026,sniff,snuff,sunfish (s-n-f-sh),sign off (phrase),San Jose Vieques (s-n-v)
+027,snake,snack,sink,sonic,snug
+028,snatch,sun-judge (phrase),niche (n-sh),launch (l-n-ch)
+029,snap,snip,snob,knapsack (n-p-s-k),sunbeam (s-n-b-m)
+030,Sims (name),seams,semis,osmosis (s-m-s-s),summons (s-m-n-s)
+031,smite,smith,smooth,smote,summit
+032,summon,Simon (name),cinnamon (s-n-m-n),semen,someone
+033,Sammy (s-m),same mom (phrase),sea mummy (phrase),some mime (phrase),mama (m-m)
+034,summer,samurai,smear,simmer,Zimmer (name)
+035,smile,smell,small,similar (s-m-l-r),decimal (d-s-m-l)
+036,Asimov (name),safe move (phrase),sea foam (phrase),smove (invented?),zymov (invented?)
+037,smoke,smog,smack,sumac,cosmic (k-s-m-k)
+038,smash,smudge,sea match (phrase),assume judge (phrase),Somesh (name)
+039,zombie,swamp,samba,sump,sample (s-m-p-l)
+040,circus (s-r-k-s),source,series,zeros,serious
+041,sword,sort,sard,sert (invented?),certain (s-r-t-n)
+042,siren,serene,throne (th-r-n),Sarah Vaughan (s-r-v-n),zero-in (phrase)
+043,serum,swarm,sermon (s-r-m-n),ceremony (s-r-m-n),surmount (s-r-m-n-t)
+044,sorrower (s-r-r),rare (r-r),error (r-r),userer (s-r-r),rear (r-r)
+045,sailor (s-l-r),celery (s-l-r),serial,surreal,sorrel
+046,surf,serve,syrup,seraph,survey
+047,circus (s-r-k-s),sark (s-r-k),surg (s-r-g),sorghum (s-r-g-m),zerg (z-r-g)
+048,search,surge,serge,Sarge (s-r-j),Sorcha (name)
+049,syrup,Serbia (s-r-b),serape,sorb,usurp
+050,sales,slice,cells,souls,zealous
+051,salad,salt,slate,slide,solid
+052,salon,island (l-n-d),slain,saloon,sullen
+053,slime,slam,slum,Islam,solemn
+054,sailor,cellar,solar,slur,celery (s-l-r)
+055,seashell (s-sh-l),solely,silly,sea lily (phrase),loyal (l-l)
+056,sleeve,solve,self,salve,salvo
+057,silk,slug,slag,slick,sulk
+058,slush,slash,sludge,selfish (s-l-f-sh),stylish (s-t-l-sh)
+059,sleep,slip,slope,slap,slab
+060,suffice,sofas,safe ways (phrase),civis,Szczesny (s-cz-s-n?)
+061,swift,safety,soft,sift,saved
+062,seven,siphon,symphony (s-m-f-n),Sivan (name),so fine (phrase)
+063,smurf (s-m-r-f),sea foam (phrase),safe home (phrase),symphony (s-m-f-n),Samford (s-m-f-r-d)
+064,suffer,safari,server,savor,severe
+065,civil,shelf (sh-l-f),Seville (s-v-l),awful (f-l),useful (s-f-l)
+066,vivify (v-v-f),fife (f-f),safe view (phrase),save face (phrase),vivace (v-v-ch)
+067,civic,suffolk (s-f-k),physique (f-z-k),safe key (phrase),Szczecin (sh-ch-?)
+068,savage (s-v-j),safe judge (phrase),sea chef (phrase),Szczygiel (sh-ch-g-l?)
+069,sofa bed (s-f-b-d),save-up (phrase),safe path (s-f-p-th),sub fee (phrase)
+070,socks,sacks,six,sagas,sikhs
+071,socket,skate,scott,skit,skid
+072,skin,scan,scone,sicken,second (s-k-n-d)
+073,scheme,skim,scum,zygoma (z-g-m),sequoia map (phrase)
+074,scar,score,soccer,sugar,screw
+075,skull,school,skill,scale,seagull
+076,Scofflaw (s-k-f-l),scoff,skeevy,sky-view (phrase),Sigfried (s-g-f-r-d)
+077,squawk,cake (k-k),gag (g-g),seacock,skeptic (s-k-p-t-k)
+078,sketch,Scotch (s-k-ch),squash,squish,squidge
+079,scope,skip,scoop,escape (s-k-p),skycap
+080,shows (sh-z),cheese (ch-z),sashays (s-sh-z),sea chess (phrase),Joshua's (j-sh-z)
+081,widget (w-j-t),washed (w-sh-t),shed (sh-t),jet (j-t),waist (w-s-t?)
+082,ocean (o-sh-n),session,shine (sh-n),Szechuan (s-ch-w-n),nation (n-sh-n)
+083,shame (sh-m),gem (j-m),sachem,sea jam (phrase),show mum (phrase)
+084,usher (u-sh-r),share (sh-r),azure,seizure,ensure
+085,social (s-sh-l),seashell (s-sh-l),special (s-p-sh-l),spatial (s-p-sh-l),cello (ch-l)
+086,shave (sh-v),sea chief (phrase),savage (s-v-j),show foe (phrase)
+087,shock (sh-k),Sajak (name),sea chalk (phrase),sash hook (phrase),shack (sh-k)
+088,shush (sh-sh),judge (j-j),sea judge (phrase),sash edge (phrase),Josh Shaw (j-sh-sh)
+089,sheep (sh-p),job (j-b),ship (sh-p),sea ship (phrase),shop (sh-p)
+090,space,spice,soaps,subs,suppose
+091,spud,spot,spit,spade,zapped
+092,spoon,spin,span,spawn,Sabine (name)
+093,spam,zombie (z-m-b),samba (s-m-b),sub-aim (phrase),palm (p-m)
+094,spear,spray,spare,spire,sober
+095,spell,spill,supple,sibling,spoil
+096,specify (s-p-s-f),beef (b-f),sub-five (phrase),sap-vie (phrase),base five (b-s-f-v)
+097,speak,spike,spook,spoke,sabicu
+098,speech,page (p-j),push (p-sh),sabja (invented?),sub-shape (phrase)
+099,pipe (p-p),babe (b-b),zebiba (z-b-b),sub-pub (phrase),seep-pipe (phrase)
+100,thesis,disease,doses,diocese,decease
+101,toast,taste,test,dust,attest
+102,citizen (s-t-z-n),station (s-t-sh-n),dizzying (d-z-n),dosing (d-s-n),Edison (d-s-n)
+103,dismay (d-s-m),atheism (th-z-m),daisies hum (phrase),eat sumac (phrase),itemise him (phrase)
+104,toaster,duster,desire,teaser,disarray
+105,diesel,Tesla (t-s-l),tassel,dazzle,desolate (d-s-l-t)
+106,dosage,deserve (d-s-r-v),dysphasia (d-s-ph-s),eat safe (phrase),adze foe (phrase)
+107,desk,disc,tusks,toxic (t-k-s-k),attic key (phrase)
+108,dishwash (d-sh-w-sh),discharge (d-s-ch-r-j),eat sash (phrase),adhesive (d-s-v)
+109,desktop (d-s-k-t-p),display (d-s-p-l),disobey,dustbin,desk pup (phrase)
+110,dates,tides,tattoos,idiots,toots
+111,dotted,detat (d-t-t),attitude (t-t-d),tedded,idiot toy (phrase)
+112,titan,tighten,detain,iodine (i-d-n),didn't
+113,item (t-m),diadem,steam (s-t-m),datetime (d-t-m),autumn (t-m)
+114,daughter,editor,theatre,detour,otter
+115,title,detail,tidal,total,totally
+116,detach,deduce (d-d-s),dot view (phrase),death vow (phrase),devotee (d-v-t)
+117,attic (t-k),attack,detect,ethic,take
+118,detach,stitch (s-t-ch),stage (s-t-j),dad shoe (phrase),dead judge (phrase)
+119,teapot,depth,adopt,tapped,dipped
+120,tennis,tins,tons,dense,dance
+121,tent,donut,tint,aunt,talent
+122,Dannon (d-n-n),denning (d-n-n),tenon (t-n-n),Dinan (d-n-n),onion (n-n)
+123,dynamite (d-n-m-t),denim,autonomy (t-n-m),athenaeum (th-n-m),Dan Mumford (d-n-m-f..d)
+124,dinner,tuner,donor,trainer,enter
+125,tunnel,denial,annual (n-n-l),only (n-l),Danelle (d-n-l)
+126,Danish,envy (n-v),tonnage,adenvia (invented?),Dan foe (phrase)
+127,tank,tonic,think,tongue,unique (n-k)
+128,launch (l-n-ch),niche (n-sh),Danish,change (ch-n-j),Tangier (t-n-j-r)
+129,turnip,nearby (n-r-b),antipathy (n-t-p-th),Danube (d-n-b)
+130,times,dimes,atoms,Thomas (t-m-s),items (t-m-s)
+131,tomato,admit,tamed,dimmed,submit (s-b-m-t)
+132,demon,diamond (d-m-n-d),Simon (s-m-n),omen (m-n),human (h-m-n)
+133,dummy mom (phrase),my mom (m-m),time mom (phrase),Diomede (d-m-d),item mum (t-m-m)
+134,timer,tumor,dreamer,armor,tremor
+135,animal (n-m-l),tunnel (t-n-l),timely,decimal (d-s-m-l),tumulus (t-m-l-s)
+136,damage (d-m-j),stomach (s-t-m-k),demivolt (d-m-v-l-t),ad move (phrase),Tom foe (phrase)
+137,atomic,dynamic,dogma,thumbtack (th-m-t-k),Tom cat (phrase)
+138,demijohn (d-m-j-n),damage (d-m-j),dim shoe (phrase),Tom judge (phrase),atoms judge (phrase)
+139,damp,tomb,thumb,stampede (s-t-m-p-d),temp (t-m-p)
+140,tears,tires,towers,dress,trace
+141,dart,dirt,treat,thread,tart
+142,train,drain,drone,drawn,thorn
+143,drum,dream,drama,dorm,term
+144,trailer (t-r-l-r),dreary,terror,mirror (m-r-r),rare (r-r)
+145,drill,trail,troll,trial,truly
+146,drift,drive,trophy,thrive,tariff
+147,turkey,track,trick,trek,dark
+148,treasure (t-r-zh-r),trash,torch,drainage (d-r-n-j),Dreiser (d-r-s-r)
+149,trap,trip,drip,tribe,drab
+150,tales,tools,tiles,dolls,atlas
+151,toilet,tilt,told,talent,adult
+152,dolphin (d-l-f-n),outline (t-l-n),тальян (invented?),tail fin (phrase),Dylan (d-l-n)
+153,tellurium (t-l-r-m),tile map (phrase),tall man (phrase),tell me (phrase),Del Monte (d-l-m-n-t)
+154,dollar,tailor,teller,dweller,tolerate (t-l-r-t)
+155,daily lull (phrase),tall lily (phrase),delay law (phrase),loyal (l-l),dial L (phrase)
+156,twelve,delve,delphi,telephone (t-l-f-n),tallow vat (phrase)
+157,talk,outlook (t-l-k),tulip quilt (phrase),telek (invented?),Telegu (t-l-g)
+158,deluge,polish (p-l-sh),childish (ch-l-d-sh),tall judge (phrase), स्टाइलिश (s-t-l-sh)
+159,tulip,develop,table bay (phrase),delphi B (phrase),tail pipe (phrase)
+160,device,diffuse,deface,divas,advise
+161,theft,daft,divot,devote,safety (s-f-t)
+162,divan,define,often (f-t-n),Devon (name),symphony (s-m-f-n)
+163,atrium (t-r-m),dive home (phrase),tough mud (phrase),defoam (invented?),Dove map (phrase)
+164,diver,driver (d-r-v-r),devour,defer,tougher
+165,devil,duffel,awful (f-l),useful (s-f-l),duffle
+166,fife (f-f),achieve (ch-v),dive off (phrase),tough foe (phrase),vivify (v-v-f)
+167,edifice (d-f-s),dive gear (phrase),tough guy (phrase),attic view (phrase),equivoke (k-v-k)
+168,diffusion (d-f-zh-n),devotion (d-v-sh-n),dive ship (phrase),tough judge (phrase),dove cage (d-v-k-j)
+169,dove pie (phrase),dive boat (phrase),tough pub (phrase),devour pie (phrase)
+170,ducks,dogs,tacks,ticks,takes
+171,ticket,tact,takedown (t-k-d-n),decayed,decide (d-s-d)
+172,token,taken,techno,thicken,deacon
+173,dogma (d-g-m),vacuum (v-k-m),take aim (phrase),decoy man (phrase),Tecumseh (t-k-m-s)
+174,doctor,tanker,docker,trigger,decree
+175,tackle,teakettle (t-k-t-l),duckling,toggle,tickle
+176,take off (phrase),dequeue (d-k),equivoke (k-v-k),tough guy (phrase),Tec Fihlo (t-k-f-l)
+177,cake (k-k),gag (g-g),take cake (phrase),dog walk (phrase),equicoke (invented?)
+178,dog show (phrase),take charge (phrase),duck judge (phrase),Tec judge (phrase)
+179,backup (b-k-p),take-up (phrase),duck boat (phrase),decub (d-k-b),Tec B (phrase)
+180,dishes,touches,shoes (sh-z),chess (ch-s),Dacia's (d-sh-z)
+181,dashed,touched,widget (w-j-t),dish towel (d-sh-t-l),judge (j-j)
+182,station (s-t-sh-n),edition,ocean (o-sh-n),caution (k-sh-n),adjutant (j-t-n-t)
+183,dishmop (d-sh-m-p),shame (sh-m),gem (j-m),dish mat (phrase),attach map (phrase)
+184,teacher,dasher,usher (u-sh-r),share (sh-r),dishwasher (d-sh-w-sh-r)
+185,dish liquid (phrase),special (s-p-sh-l),partial (p-r-sh-l),disloyal (d-s-l-l),digital (d-j-t-l)
+186,shave (sh-v),achieve (ch-v),touch-off (phrase),dish soap (phrase),attach foe (phrase)
+187,shock (sh-k),dish rack (phrase),attach key (phrase),attach hook (phrase)
+188,shush (sh-sh),judge (j-j),dish judge (phrase),dish shop (phrase),attach judge (phrase)
+189,sheep (sh-p),job (j-b),dish pan (phrase),dish bin (phrase),attach B (phrase)
+190,tapes,tubes,tops,taps,autopsy (t-p-s)
+191,taped,typed,adapt,adept,tipped
+192,cabin (k-b-n),toboggan (t-b-g-n),tuben (invented?),Tyburn (t-b-r-n)
+193,depict (d-p-k-t),damp (d-m-p),tape measure (phrase),type M (phrase),top mum (phrase)
+194,diaper,taper,drapery,deeper,tub rack (phrase)
+195,table,staple,double,steeple,deploy
+196,autobahn (t-b-n),beef (b-f),top five (phrase),autopsy (t-p-s),dab off (phrase)
+197,topic,tobac (t-b-k),paperwork (p-p-r-w-k),top key (phrase),top quark (phrase)
+198,page (p-j),push (p-sh),tape show (phrase),top judge (phrase),dab show (phrase)
+199,teepee,pipe (p-p),babe (b-b),top-up,tape B (phrase)
+200,nieces,noses,nexus,noises,insist (n-s-s-t)
+201,nest,nasty,honest,instead,unsaid
+202,insane,nascent (n-s-n-t),ozone (z-n),unison,nieces' son (phrase)
+203,enzyme,nasum (n-s-m),awesome (s-m),Enos maze (phrase),niceness hum (phrase)
+204,necessary,Nasser (name),answer,nicer,no sir (phrase)
+205,nasal,nuzzle,insulin,nicely,unseal
+206,enslave (n-s-l-v),Nasif (name),nice view (phrase),ensue foe (phrase),Nez Perce chief (n-z-p-...)
+207,Nasdaq,insecure (n-s-k-r),ensign key (phrase),nsec (unit),Nez Perce key (n-z-p-...)
+208,massage (m-s-j),in session (phrase),nice judge (phrase),ensue show (phrase),Nez Perce judge (n-z-p-...)
+209,inspire (n-s-p-r),nice pie (phrase),enslave boy (phrase),Nez Perce B (n-z-p-...)
+210,nuts,notes,needs,netties (n-t-s),induce
+211,needed,knitted,nodded,entity,antidote
+212,Newton (name),Indian,indent,antenna,notion
+213,anthem,intimate (n-t-m-t),condemn (k-n-d-m),en आइटम (invented?),Nat M (phrase)
+214,nature,winter,enter,under,netter
+215,needle,unload,until,Nadal (name),nodal
+216,native,naive (n-v),Nadav (name),unite foe (phrase),endive (n-d-v)
+217,antique,intake,indigo,antic,nudge
+218,nudge,initiate (n-sh-t),unattached (n-t-ch-t),nitrous oxide (n-t-r-s...),Nadjat (n-j-t)
+219,antibody (n-t-b-d),knighthood (n-t-d),nearby (n-r-b),end point (phrase)
+220,nuns,announce,nonsense,onions,ninnies
+221,ninety,unhandy (n-n-d),nonwhite (n-n-w-t),nodding ant (phrase),nanobot (n-n-b-t)
+222,nonunion (n-n-n),oniony (n-n-n),Nanine (name),onion naan (phrase),Nanook (n-n-k)
+223,enema (n-m),unaimed (n-m-d),minimum (m-n-m-m),nine men (phrase),ninny mom (phrase)
+224,nunnery,owner (n-r),non-rare (phrase),Niagara (n-g-r)
+225,annual (n-n-l),annul (n-l),only (n-l),non-loyal (phrase),nail file (n-l-f-l)
+226,envoy (n-v),envy (n-v),non-view (phrase),nun valley (phrase),any foe (phrase)
+227,unique (n-k),nine gag (phrase),no-knock (phrase),Nanak (n-n-k)
+228,enjoy (n-j),nun shoe (phrase),non-judge (phrase),any judge (phrase)
+229,ennoble (n-b-l),unhappy (n-p),nun pub (phrase),non-pay (phrase),any B (phrase)
+230,names,gnomes,animosity (n-m-s-t),nimis (invented?),enemies (n-m-z)
+231,nomad,animate,named,enmity,submit (s-b-m-t)
+232,omen (m-n),human (h-m-n),new moon (phrase),no man (phrase),Normandy (n-r-m-n-d)
+233,mama (m-m),my mom (m-m),no mummy (phrase),enema map (phrase),home map (phrase)
+234,enamour (n-m-r),humor (h-m-r),timer (t-m-r),nominee run (phrase),armor (r-m-r)
+235,animal (n-m-l),enamel,anomaly,new mall (phrase),normally (n-r-m-l)
+236,no move (phrase),new muff (phrase),name view (phrase),Nemo foe (phrase),naive foe (n-v-f)
+237,income (n-k-m),gnomic (n-m-k),nominee gag (phrase),Naamik (name?),any key (phrase)
+238,imagine (m-j-n),name tag (phrase),no mesh (phrase),any judge (phrase)
+239,numb,Nimby,name P (phrase),any B (phrase),Napalm (n-p-l-m)
+240,nurse,neurosis (n-r-s-s),honors,inertia (n-r-sh),nears
+241,nerd,narrate,norite,unrated (n-r-t-d),unworthy (n-r-th)
+242,neuron,northern (n-r-th-r-n),near end (phrase),Neronian (n-r-n-n)
+243,norm,enormity (n-r-m-t),unarm (n-r-m),NARMIC (n-r-m-k)
+244,narrower,nearer,error (r-r),rare (r-r),Niagara Falls (n-g-r-f-l-s)
+245,neural,enroll,unroll,unreal,nearly
+246,nerve,enrich (n-r-ch),energy (n-r-j),unroof,nervy (n-r-v)
+247,Norwich (n-r-ch),inorganic (n-r-g-n-k),nark (n-r-k),hen house rock (phrase)
+248,nourish,enrich (n-r-ch),energy (n-r-j),marsh (m-r-sh),Norwegian (n-r-w-j-n)
+249,nearby (n-r-b),unwrap (n-r-p),NRP (abbrev.),inرب (arabic?),nerp (invented?)
+250,nails,unless,analysis,annuls,Niles (name)
+251,nailed,inlet,unload,unlit,inlaid
+252,Nolan (name),newline,union (n-n),New Lynn (place),island (l-n-d)
+253,llama (l-m),album (l-b-m),Nil-aim (phrase),Nile map (phrase),anomaly (n-m-l)
+254,nailer,annular,unclear (n-k-l-r),inhale air (phrase),Nellore (n-l-r)
+255,loyal (l-l),Nile lily (phrase),annual law (phrase),only loyal (phrase),Nelliel (n-l-l)
+256,nullify,involve (n-v-l-v),Nile view (phrase),anvil foe (phrase)
+257,unlock,angelic (n-j-l-k),Nile lock (phrase),inelastic (n-l-s-t-k),Nulka (n-l-k)
+258,unleash (n-l-sh),nail file shoe (phrase),nail judge (phrase),Nelson judge (n-l-s-n-j)
+259,envelope (n-v-l-p),nail-up (phrase),Nile path (phrase),unwrap B (n-r-p-b)
+260,knives,invoice,novice,navies,nieves (n-v-z)
+261,invite,infant,envied,unfit,knife fight (phrase)
+262,uneven,infancy (n-f-n-s),Niven (name),infancy now (phrase),envision (n-v-zh-n)
+263,inform (n-f-r-m),Nivea map (phrase),Nemo foe (phrase),envy mum (phrase)
+264,never,invader,envier,infer,unfair
+265,novel,anvil,enable,influx (n-f-l-k-s),unify law (phrase)
+266,fife (f-f),in vivo (phrase),Naveve (invented?),envy foe (phrase),invivify (n-v-v-f)
+267,infect,invoke,NVIC (abbrev.),unfix key (phrase),envision key (n-v-zh-n-k)
+268,knave show (phrase),envoy judge (phrase),unfished (n-f-sh-t),envisage (n-v-z-j)
+269,knave pub (phrase),NVQ B (phrase),unfob (invented?),envision B (n-v-zh-n-b)
+270,necks,nexus,nukes,knocks,nags
+271,naked,nectar,negate,enact,inked
+272,Nixon (n-k-s-n),unclean (n-k-l-n),anion (n-n),nankeen (n-n-k-n),nincompoop (n-n-k-m-p-p)
+273,income (n-k-m),enigma,Nkomo (name),Nagma (n-g-m)
+274,anchor,encore,angry,incur,nicer
+275,nickel,uncle,ankle,angle,incline
+276,negative (n-g-t-v),uncuff,uncivil (n-c-v-l),involve (n-v-l-v),Nico Fee (n-k-f)
+277,cake (k-k),gag (g-g),encage key (phrase),ink cake (phrase),Nacogdoches (n-k-g-d-ch-s)
+278,engage (n-g-j),encash,ink jar (phrase),niche key (phrase),Nagesh (n-g-sh)
+279,encamp,unkempt (n-k-m-p-t),ink pot (phrase),uncap,knapsack (n-p-s-k)
+280,inches,niches,injuries (n-j-r-s),noxious (n-k-sh-s),meshes
+281,initiate (n-sh-t),mashed,unshut,washed (w-sh-t),widget (w-j-t)
+282,nation (n-sh-n),engine (n-j-n),notion,auction (k-sh-n),injune (n-j-n)
+283,shame (sh-m),gem (j-m),new shame (phrase),niche map (phrase),Nash home (n-sh-m)
+284,injure,ensure,usher (u-sh-r),share (sh-r),Nashua (n-sh-w)
+285,initial,unleash,unshackle (n-sh-k-l),special (s-p-sh-l),Nash Light (n-sh-l-t)
+286,shave (sh-v),achieve (ch-v),unshaved (n-sh-v-d),injave (invented?),enjoy view (phrase)
+287,shock (sh-k),new check (phrase),niche key (phrase),nosh hook (phrase),Nashua key (n-sh-w-k)
+288,shush (sh-sh),judge (j-j),new judge (phrase),unshushed (n-sh-sh-t),Nash judge (n-sh-j)
+289,sheep (sh-p),job (j-b),new ship (phrase),N-shape (phrase),Nash B (n-sh-b)
+290,naps,nips,knobs,snaps,nimbus
+291,input,nabbed,nipped,unpaid,inhabit (n-b-t)
+292,napkin,unpin,unbend (n-b-n-d),nobbin (invented?),Nabisco (n-b-s-k)
+293,poppy (p-p),Nippon map (phrase),unmap (n-m-p),un शुभारंभ (hindi?),Nimby pup (n-m-b-p)
+294,neighbor,sniper,nabber,unbar,unripe
+295,noble,nibble,enable,maple (m-p-l),Nablus (n-b-l-s)
+296,beef (b-f),sniff (s-n-f),knob view (phrase),unfob (invented?),Naperville (n-p-r-v-l)
+297,unpack,knapsack (n-p-s-k),in back (phrase),new bug (phrase),Napoca (n-p-k)
+298,page (p-j),push (p-sh),nab judge (phrase),knob shape (phrase),Napa judge (n-p-j)
+299,pipe (p-p),babe (b-b),ninepin,new pope (phrase),Naboo pub (n-b-p)
+300,masses,Moses (m-s-s),misses,messes,mosis (m-s-s)
+301,mist,must,mast,amused,missed
+302,mason,medicine (m-d-s-n),Amazon,maisonette (m-s-n-t),Madison (m-d-s-n)
+303,museum,mesmerize (m-s-m-r-z),my seism (phrase),mass mummy (phrase),Mesopotamia (m-s-p-t-m)
+304,master,measure,misery,Missouri (m-s-r),racer (r-s-r)
+305,muscle,missile,measly,mistletoe (m-s-l-t),Mozilla (m-z-l)
+306,massive (m-s-v),missive,massif (m-s-f),misjudge foe (phrase),amuse foe (phrase)
+307,mask,mosaic (m-s-k),musket,Moscow,miscue
+308,massage (m-s-j),mesh shoe (phrase),my sash (phrase),amass cash (phrase),Moises judge (m-s-s-j)
+309,misspell,misplace,may sub (phrase),mouse trap (m-s-t-r-p),Macy's buy (m-s-b)
+310,mats,moods,methods,moths,emotes
+311,method,mated,emitted,midday (m-d-d),mad tot (phrase)
+312,mitten,maiden,median,molten,Madonna
+313,madame,medium,atom (t-m),my team (phrase),Medea man (phrase)
+314,motor,mother,meter,matter,mature
+315,medal,metal,model,middle,muddle
+316,motif,midwife (m-d-w-f),motivate,mad foe (phrase),mud foe (phrase)
+317,magic,medic,mad dog (phrase),attack (t-k),Medicaid (m-d-k-d)
+318,Medusa (m-d-s),mad dash (phrase),mod show (phrase),mottish (m-t-sh),mud judge (phrase)
+319,mud pie (phrase),mid-point (phrase),mad boy (phrase),empty bin (phrase),mud bath (m-d-b-th)
+320,means,minus,mince,manes,amends
+321,mint,month,mount,mend,minute
+322,minion,omen naan (phrase),mean nun (phrase),Manon (name),human noon (h-m-n-n)
+323,minimum (m-n-m-m),my name ma (phrase),monomania (m-n-m-n),Man mum (phrase)
+324,miner,manor,minor,manner,manure
+325,manual,monolith (m-n-l-th),menial,moon lily (phrase),Manalo (m-n-l)
+326,minivan,manage fee (phrase),man foe (phrase),Minerva (m-n-r-v),mannequin foe (m-n-k-n-f)
+327,monkey,monk,maniac,manic,ming
+328,manage,mincemeat (m-n-s-m-t),min chaise (phrase),moon chart (phrase),man judge (phrase)
+329,monopoly,man bag (phrase),mean boss (phrase),main pipe (phrase),Mumbai nap (m-m-b-n-p)
+330,mimes,memos,mumps,mammose (m-m-s),museums (m-z-m-z)
+331,Mamet (name),memo pad (phrase),my mate (phrase),Mumbai tot (m-m-b-t-t)
+332,mammon (m-m-n),my man (phrase),mime nun (phrase),Mumbai nun (m-m-b-n-n)
+333,mammamia (m-m-m),my mummy (phrase),mime mom (phrase),Mumbai mum (m-m-b-m-m)
+334,memory,memoir,mimicry,my mirror (phrase),Mumbai ray (m-m-b-r)
+335,mammal,my mail (phrase),mime law (phrase),Mumbai law (m-m-b-l)
+336,massive (m-s-v),my movie (phrase),mime foe (phrase),Mumbai foe (m-m-b-f)
+337,mimic,my mug (phrase),my mic (phrase),mime gag (phrase),Mumbai key (m-m-b-k)
+338,my message (phrase),mime show (phrase),mime judge (phrase),Mumbai judge (m-m-b-j)
+339,maybe (m-b),mop (m-p),my map (phrase),my mob (phrase),Mumbai B (m-m-b-b)
+340,mars,morass,morose,mayor's,embers
+341,mart,merit,murder,married,mired
+342,marine,marina,moron,maroon,mourn
+343,marmot,Miriam (m-r-m),arm home (phrase),marry mom (phrase),Rome map (r-m-m-p)
+344,mirror,marauder (m-r-d-r),murderer,more rare (phrase),rare (r-r)
+345,marvel,moral,morel,Marley (m-r-l),mural (m-r-l)
+346,morph,marvy (m-r-v),moribund (m-r-b-n-d),mire foe (phrase),arm foe (r-m-f)
+347,mark,march,merge,merc,morgue
+348,marriage (m-r-j),march,merge,marsh,mire judge (phrase)
+349,marzipan (m-r-z-p-n),marb (invented?),mire pit (phrase),morph B (phrase),arm bar (r-m-b-r)
+350,molasses,malls,meals,mills,miles
+351,millet,malt,melt,mild,mould
+352,melon,myelin,Milan (m-l-n),Moline (m-l-n),Malone (m-l-n)
+353,mailman (m-l-m-n),millennium (m-l-n-m),Malmö (m-l-m),elm home (l-m-m)
+354,molar,miller,mailer,Malaria (m-l-r),Mallory (m-l-r)
+355,my lily (m-l-l),mail lily (phrase),mole hill (phrase),loyal (l-l),Malolo (m-l-l)
+356,mollify (m-l-f),my life (m-l-f),modify life (phrase),Mill foe (phrase)
+357,milk,mall cop (m-l-k-p),mulch,mole key (phrase),Melky (m-l-k)
+358,mileage,mollusc shell (m-l-s-k sh-l),mail chute (phrase),mulch heap (m-l-ch h-p),Mel judge (m-l-j)
+359,maple (m-p-l),mule bag (phrase),mail P.O. (phrase),mole pup (phrase),Mel B (m-l-b)
+360,movies,moves,emphasis (m-f-s-s),mauve hues (phrase),Mauvis (m-v-s)
+361,muffet,moved,mafia debt (m-f-d-t),may fight (phrase),mauve dye (phrase)
+362,maven,muffin,moving,amphibian (m-f-b-n),Morphine (m-r-f-n)
+363,move home (phrase),mauve map (phrase),move me (phrase),amphora map (m-f-r-m-p),Morphy mum (m-r-f-m)
+364,mover,empower (m-p-w-r),mauve fur (phrase),Morphy rare (m-r-f-r)
+365,muffle,moviola (m-v-l),awful (f-l),Morphy law (m-r-f-l)
+366,fife (f-f),mauve foe (phrase),move off (phrase),Morphy foe (m-r-f-f)
+367,move key (phrase),movie gag (phrase),make-up view (phrase),Morphy key (m-r-f-k)
+368,move ship (phrase),move shack (phrase),mauve judge (phrase),Morphy judge (m-r-f-j)
+369,move up (phrase),movie buff (phrase),mauve pub (phrase),Morphy B (m-r-f-b)
+370,mix,moxie,mugs,makes,magus
+371,magnet,market,might,migrate,mocked
+372,making,Megan (name),macron (m-k-r-n),macaroni (m-k-r-n),Meghan (m-g-n)
+373,magma,macumba (m-k-m-b),Mecca map (phrase),make me (phrase),vacuum (v-k-m)
+374,maker,macrame (m-k-r-m),mugger,migrate rat (phrase),acre (k-r)
+375,Michael (m-k-l),maglev (m-g-l-v),macle (m-k-l),mackle (m-k-l),cycle (s-k-l)
+376,McGuff (name),make off (phrase),mock foe (phrase),macaw foe (phrase),Meg F (phrase)
+377,cake (k-k),gag (g-g),make cake (phrase),my cook (phrase),Mecca gag (phrase)
+378,magician,mock judge (phrase),make change (phrase),make share (phrase),Meg judge (phrase)
+379,makeup,magpie,Mecca path (phrase),make path (phrase),Meg B (phrase)
+380,meshes,mages,mashies,mush ice (phrase),Mejias (m-j-s)
+381,majesty (m-j-s-t),mashed,match head (phrase),gem diet (phrase),widget (w-j-t)
+382,machine,mission,motion,imagine (m-j-n),maize shin (m-z-sh-n)
+383,shame (sh-m),gem (j-m),my shame (phrase),my gem (phrase),mash mummy (phrase)
+384,major,measure,masher,imagery (m-j-r),usher (sh-r)
+385,Michelle (m-sh-l),Marshall (m-r-sh-l),mutual,initial (n-sh-l),special (s-p-sh-l)
+386,shave (sh-v),achieve (ch-v),mash foe (phrase),my shave (phrase),mishap foe (phrase)
+87,magic,shock (sh-k),match hook (phrase),mesh gown (phrase),mesh key (m-sh-k)
+388,shush (sh-sh),judge (j-j),my judge (phrase),mash judge (phrase),mesh judge (m-sh-j)
+389,sheep (sh-p),job (j-b),mash-up (phrase),my ship (phrase),mesh B (m-sh-b)
+390,ambush,maps,mops,mobs,maybe's (m-b-z)
+391,impute (m-p-t),imbibed (m-b-b-d),map head (phrase),mob hit (phrase),embed (m-b-d)
+392,ambition,impawn (m-p-n),my bunion (phrase),map niece (phrase),combine (k-m-b-n)
+393,poppy (p-p),mob mummy (phrase),map maker (phrase),imbibe mum (phrase),Mumbai pup (m-m-b-p)
+394,empire,amber,mop oar (phrase),مبر (arabic?),imprint (m-p-r-n-t)
+395,maple (m-p-l),mobile,embalm,ample,imply
+396,beef (b-f),mob view (phrase),ambush foe (phrase),map view (phrase),empire view (m-p-r-v)
+397,impact,impeach (m-p-ch),map key (phrase),mob goon (phrase),payback (p-b-k)
+398,page (p-j),push (p-sh),mob judge (phrase),map shape (phrase),ambush judge (phrase)
+399,pipe (p-p),babe (b-b),mob boss (phrase),map bib (phrase),maybe baby (phrase)
+400,roses,recess,races,arises,eroses (r-s-s)
+401,roast,raised,reset,rust,arrest
+402,reason,resin,rosin,arson,arisen
+403,resume,heroism (h-r-z-m),awesome (s-m),race mum (phrase),Rossum (r-s-m)
+404,razor,racer,raiser,geyser,Caesar (s-z-r)
+405,Russell (r-s-l),wrestle (r-s-l),arousal (r-s-l), दरअसल (hindi?), दरअसल (hindi?)
+406,receptive (r-s-p-t-v),rose view (phrase),raise foe (phrase),rosacea foe (phrase),receive (r-s-v)
+407,risk,rescue,rusk,race car (phrase),rosy cheek (phrase)
+408,research (r-s-r-ch),rose hedge (phrase),rush hour (phrase),رشاش (arabic?),Rorschach (r-r-sh-k)
+409,Rasp, रेसिपी (hindi?),race boat (phrase),grasp (g-r-s-p), रेसिपी (hindi?)
+410,radius,roots,roads,ritz,arts
+411,rotated,reddit,redwood,erudite,ratite (r-t-t)
+412,routine,written,ratan (r-t-n),rotten,radio network (phrase)
+413,rhythm,radium,art home (phrase),write memo (phrase),item (t-m)
+414,radar,raider,rotor,writer,retire
+415,rattle,retail,ritual,read law (phrase),radula (r-d-l)
+416,ratify,read foe (phrase),art view (phrase),read value (phrase),relative (r-l-t-v)
+417,Arctic, अटैक (hindi?), अटैक (hindi?), अटैक (hindi?), अटैक (hindi?)
+418,reddish,red shoe (phrase),read sheet (phrase),ready chef (phrase),rate judge (phrase)
+419,red tub (phrase),red top (phrase),art buy (phrase),red bait (phrase),red B (phrase)
+420,rains,runs,ruins,rinse,arena's
+421,rant,rent,round,around,arena day (phrase)
+422,renown,rennen (german),rayon nun (phrase),ruin nation (phrase),noon (n-n)
+423,run home (phrase),rainy map (phrase),rhino mum (phrase),enema (n-m),Romany (r-m-n)
+424,runner,renderer,owner (n-r),rare new year (phrase),Renoir (r-n-r)
+425,renewal,runnel (r-n-l),Reinel (name),only (n-l),rational (r-sh-n-l)
+426,runway foe (phrase),rainy view (phrase),Renfrew (place),envy (n-v),wrench foe (r-n-ch-f)
+427,ring,rank,rink,wrong,running key (phrase)
+428,wrench,range,ranch,arrange,orange
+429,rainbow,run up (phrase),runway path (phrase),wrap (r-p),Ren B (r-n-b)
+430,rams,rooms,arms,roms,rheums
+431,remote,remedy,armed,rheumatoid (r-m-t-d),submit (s-b-m-t)
+432,Roman,remain,rumen,Rayman (name),human (h-m-n)
+433,ram home (phrase),rare mummy (phrase),my mom (m-m),Remmi (r-m-m)
+434,rumor,armor,romero (r-m-r),rare mirror (phrase),error (r-r)
+435,rumble,Ramallah (place),arm lock (phrase),animal (n-m-l),Ramiel (r-m-l)
+436,remove,arm foe (phrase),room view (phrase),rum foe (phrase),Ram V (r-m-v)
+437,remark,Remco (name),arm hook (phrase),room key (phrase),arm key (r-m-k)
+438,armchair,ramshackle (r-m-sh-k-l),room share (phrase),room judge (phrase),arm judge (r-m-j)
+439,ramp,romp,rhomb,arm band (phrase),arm bar (r-m-b-r)
+440,rare race (phrase),rare rose (phrase),error source (phrase),rear sight (phrase),reverse (r-v-r-s)
+441,reward,rare earth (phrase),error rate (phrase),roar out (phrase),Reardon (r-r-d-n)
+442,rerun (r-r-n),rare run (phrase),rare ruin (phrase),error near (phrase),Roanoke (r-n-k)
+443,rare room (phrase),rare ram (phrase),error map (phrase),rare mum (phrase)
+444,rare (r-r),error (r-r),rare rear (phrase),rural route (phrase),rear error (phrase)
+445,rare roll (phrase),rural law (phrase),rare lily (phrase),rare loyal (phrase)
+446,rare roof (phrase),rare view (phrase),error five (phrase),rare foe (phrase)
+447,rare rug (phrase),rare rock (phrase),rear cog (phrase),rare key (phrase)
+448,rare rash (phrase),rare rush (phrase),error charge (phrase),rare judge (phrase)
+449,rare rope (phrase),rare robe (phrase),rear up (phrase),rare B (phrase)
+450,release,rolls,reels,rules,relics
+451,result,reload,rolled,revolt,Rolodex (r-l-d-k-s)
+452,reliance,airline,ruin land (phrase),roll net (phrase),Roland (r-l-n-d)
+453,realm,llama (l-m),roll mummy (phrase),rule maker (phrase),Rolm (r-l-m)
+454,ruler,roller,reeler,earlier,railway car (phrase)
+455,loyal (l-l),royal law (phrase),rule lily (phrase),rarely lull (phrase),Rollie (r-l-l)
+456,relive,resolve,rail view (phrase),rule foe (phrase),Rolfe (r-l-f)
+457,relic,rolling key (phrase),rule book (phrase),ear lock (phrase),Relic key (r-l-k)
+458,relish,rail shoe (phrase),rule change (phrase),royal chaise (phrase),Reljudge (r-l-j)
+459,rollup,wallop (w-l-p),rail pass (phrase),real boy (phrase),Rel B (r-l-b)
+460,revise,refuse,raves,reeves,roofs
+461,raft,rift,roofed,revolt,ravet (invented?)
+462,raven,refine,revenue,rufian (r-f-n),often (f-t-n)
+463,Revadim (place),roof map (phrase),rave mum (phrase),reform (r-f-r-m)
+464,river,rover,recover,refer,rougher
+465,reveal,rifle,rival,ruffle,awful (f-l)
+466,revive,fife (f-f),roof view (phrase),rave foe (phrase),Revivo (r-v-v)
+467,revoke,traffic,roof key (phrase),reef hook (phrase),Refik (r-f-k)
+468,refresh,ravish,revision (r-v-zh-n),roof shingle (phrase),Refjudge (r-f-j)
+469,revamp,rev up (phrase),roof beam (phrase),reef bed (phrase),Ref B (r-f-b)
+470,rocks,Rex (r-k-s),rags,rigs,rakes
+471,rocket,racket,react,rigged,ragged
+472,raccoon,Reagan (r-g-n),reckon,region,recon
+473,requiem (r-k-w-m),regime (r-j-m),rock home (phrase),rag man (phrase),vacuum (v-k-m)
+474,record,rocker,require,rigor,radar gun (phrase)
+475,recall,regal,recycle,regular,wriggle
+476,rockfish (r-k-f-sh),regressive (r-g-r-s-v),reck fee (phrase),rake foe (phrase),Regev (r-g-v)
+477,cake (k-k),gag (g-g),rock cake (phrase),rag cook (phrase),rake gag (phrase)
+478,regression (r-g-r-sh-n),enrich (n-r-ch),rock show (phrase),rake hedge (phrase),Reg show (r-g-sh)
+479,recoup (r-k-p),rag bag (phrase),rock band (phrase),rig up (phrase),Reg B (r-g-b)
+480,riches,rashes,reaches,arches,rose show (phrase)
+481,ratchet,rochet (r-sh-t),reached,widget (w-j-t),Richard (r-ch-r-d)
+482,ration,Russian,region,erosion,caution (k-sh-n)
+483,regime (r-j-m),shame (sh-m),gem (j-m),roach motel (phrase),rush home (phrase)
+484,Roger (name),rusher,rasher,pressure (p-r-sh-r),usher (sh-r)
+485,racial,Russia law (phrase),rush slowly (phrase),partial (p-r-sh-l),special (s-p-sh-l)
+486,shave (sh-v),achieve (ch-v),reach foe (phrase),rush view (phrase),Rajiv (r-j-v)
+487,shock (sh-k),rush key (phrase),reach goal (phrase),rouge kit (phrase),Raj key (r-j-k)
+488,shush (sh-sh),judge (j-j),rush judge (phrase),reach judge (phrase),Raj judge (r-j-j)
+489,sheep (sh-p),job (j-b),rose hip (phrase),rush job (phrase),Raj B (r-j-b)
+490,robes,ropes,rebus,ribs,reaps
+491,robot,rapid,rabid,ripped,repaid
+492,robin,ribbon,urban,reopen,weapon
+493,RPM (abbrev.),rope map (phrase),rib home (phrase),poppy (p-p),Rambo (r-m-b)
+494,robber,rubber,repair,reaper,rapper
+495,ripple,rebel,reply,repel,maple (m-p-l)
+496,beef (b-f),rope view (phrase),rib foe (phrase),rub off (phrase),Rip Van Winkle (r-p-v-n...)
+497,reebok (r-b-k),rollback (r-l-b-k),rope hook (phrase),robust key (phrase),payback (p-b-k)
+498,rubbish,page (p-j),push (p-sh),rope show (phrase),ripe judge (phrase)
+499,pipe (p-p),babe (b-b),ripe pear (phrase),rep payee (phrase),Robbie baby (r-b-b)
+500,lasses,laces,losses,lysis (l-s-s),less is (phrase)
+501,list,last,lost,laced,elicit
+502,listen,lesson,lucent,Allison (l-s-n),lizard nose (phrase)
+503,lonesome (l-n-s-m),Lois Lane mom (phrase),loose mummy (phrase),lasso man (phrase),awesome (s-m)
+504,laser,loser,lesser,lazarus (l-z-r-s),Caesar (s-z-r)
+505,Leslie (name),Lysol (l-s-l),less loyal (phrase),loose lace (phrase),असल (hindi?)
+506,elusive (l-s-v),lucifer (l-s-f-r),lizard foe (phrase),lease view (phrase),Leslie foe (l-s-l-f)
+507,elastic (l-s-t-k),lace key (phrase),loose cog (phrase),alask (invented?),Leslie key (l-s-l-k)
+508,legislation (l-j-s-l-sh-n),lash hedge (phrase),loose change (phrase),leech jaw (phrase),Leslie judge (l-s-l-j)
+509,lisp,Lisbon (l-s-b-n),lease buy (phrase),elsewhere bar (phrase),Leslie B (l-s-l-b)
+510,lights,ladies,lids,louts,luteus (l-t-s)
+511,loaded,elated,lidded,altitude (l-t-t-d),lettuce dye (phrase)
+512,latin,lotion,laden,leaden,elation
+513,lithium (l-th-m),item (t-m),late mum (phrase),lady mime (phrase),Latham (l-th-m)
+514,leader,letter,ladder,later,altar
+515,ladle,little,lethal,lately,loyalty
+516,let off (phrase),lead foe (phrase),lead value (phrase),elative (l-t-v),litho foe (l-th-f)
+517,lake,look,luck,log,lagoon
+518,lodge,latch,leech,stylish (s-t-l-sh),La Jolla (l-h-y)
+519,laptop,lobby,lip,lap,loop
+520,lions,lens,lance,loans,illness
+521,lint,land,lent,lined,laundry
+522,linen,LeAnn Online (phrase),lino naan (phrase),nonunion (n-n-n),Leonine (l-n-n)
+523,lineman,alumnae (l-m-n),line mum (phrase),llama name (phrase),Leena mum (l-n-m)
+524,liner,lunar,learner,loner,leaner
+525,lineal,lunula (l-n-l),only (n-l),loan law (phrase),channel (ch-n-l)
+526,launch (l-n-ch),lunch,line view (phrase),line foe (phrase),envy (n-v)
+527,link,lung,long,lank,languid (l-n-g-d)
+528,launch (l-n-ch),lunch,change (ch-n-j),line judge (phrase),leഞ്ച് (malayalam?)
+529,lineup,lump (l-m-p),line path (phrase),lean pup (phrase),Lan B (l-n-b)
+530,limos,limbs,limes,looms,elm ice (phrase)
+531,limit,limited,lame date (phrase),elm wood (phrase),submit (s-b-m-t)
+532,lemon,liman (l-m-n),alumna (l-m-n),human (h-m-n),Loman (l-m-n)
+533,lime mom (phrase),lame mummy (phrase),elm home (phrase),my mom (m-m),Le Mum (l-m-m)
+534,lemur,lamer,alarm,elm tree (phrase),Lemurian (l-m-r-n)
+535,llama law (phrase),lame lull (phrase),lumley (l-m-l),animal (n-m-l),Lemuel (l-m-l)
+536,lymph,lame foe (phrase),lime vat (phrase),elm view (phrase),Lem foe (l-m-f)
+537,limik (invented?),lime cake (phrase),elm key (phrase),almanac (l-m-n-k),Lem key (l-m-k)
+538,lime Jell-O (phrase),lame shoe (phrase),elm judge (phrase),imagine (m-j-n),Lem judge (l-m-j)
+539,lump,lamp,limp,lamb,limb
+540,liars,lorries,layers,lures,larousse (l-r-s)
+541,lurid,alert,lard,laird,already
+542,learn,Loraine (name),lorn,larine (invented?),iron (r-n)
+543,alarm,larum (l-r-m),lyre home (phrase),arm (r-m),Laramie (l-r-m)
+544,layerer (l-r-r),Lorre heir (phrase),error (r-r),rare (r-r),Larrier (l-r-r)
+545,laurel,lyrical,loreal (l-r-l),mural (m-r-l),Lorelei (l-r-l)
+546,larva,lure foe (phrase),lyre view (phrase),carve (k-r-v),Larfleeze (l-r-f-l-z)
+547,lark,lurch,lyric,lorg (invented?),Lyric key (l-r-k)
+548,large,lurch,lyre shape (phrase),marsh (m-r-sh),Lars judge (l-r-s-j)
+549,Larp (game),wrap (r-p),lyre B (phrase),liar pal (phrase),Larbi (l-r-b)
+550,lilies,lulls,lilos,lilacs (l-l-k-s),Loyola's (l-l-z)
+551,lilith (l-l-th),lily pad (phrase),low altitude (l-l-t-t-d),Lalit (l-l-t)
+552,Lilian (l-l-n),low loan (phrase),lily nun (phrase),Loyola nun (phrase),Leelanau (l-l-n)
+553,lily map (phrase),loyal mom (phrase),llama law (phrase),lull mum (phrase),Leeloom (l-l-m)
+554,lily rare (phrase),loyal ruler (phrase),wallower (w-l-l-r),Leelore (l-l-r)
+555,loyal (l-l),la la la (phrase),loyal lily (phrase),lily lull (phrase),Leila Law (l-l-l)
+556,lily leaf (phrase),loyal foe (phrase),lull foe (phrase),Leil Foe (l-l-f)
+557,lily lock (phrase),loyal cook (phrase),wall clock (w-l-k-l-k),Leil Key (l-l-k)
+558,lily judge (phrase),loyal judge (phrase),lull charge (phrase),Leil Judge (l-l-j)
+559,lily pad (phrase),lily pub (phrase),loyal pup (phrase),Leil B (l-l-b)
+560,leaves,lives,loaves,elves,levies
+561,lift,left,loved,aloft,leaflet
+562,eleven,lifen (invented?),live on (phrase),laughing (l-f-n),Levon (l-v-n)
+563,live home (phrase),laugh map (phrase),olive mum (phrase),Lev Mum (l-v-m)
+564,lover,liver,lever,laufer (l-f-r),Leverrier (l-v-r-r)
+565,level,livelihood (l-v-l-h-d),awful (f-l),Laverle (l-v-r-l)
+566,fife (f-f),live off (phrase),laugh foe (phrase),love view (phrase),Lev foe (l-v-f)
+567,lifeguard (l-f-g-r-d),live gig (phrase),olive cake (phrase),lake view (phrase),Lev Key (l-v-k)
+568,lavish (l-v-sh),live show (phrase),leech foe (phrase),love judge (phrase),Lev Judge (l-v-j)
+569,lifeboat (l-f-b-t),live up (phrase),love bug (phrase),Lev B (l-v-b)
+570,lakes,locks,looks,logs,luxe
+571,locket,liked,looked,locate,liquid
+572,liken,lagoon,lichen,Lincoln (l-n-k-l-n),Lecona (l-k-n)
+573,locum (l-k-m),like mum (phrase),log home (phrase),vacuum (v-k-m),Lakshmi (l-k-sh-m)
+574,locker,logger,liker,liquor,looker
+575,local,legal,logical,local law (phrase),Lakyle (l-k-l)
+576,Locofoco (l-k-f-k),look foe (phrase),lagoon view (phrase),Log foe (l-g-f)
+577,cake (k-k),gag (g-g),look alike (l-k-l-k),lake gag (phrase),log cook (phrase)
+578,lake shore (phrase),log chute (phrase),look sharp (phrase),laggard judge (phrase),Lock Judge (l-k-j)
+579,lockup,log book (phrase),lake boat (phrase),leg up (phrase),Lock B (l-k-b)
+580,lashes,leashes,loges (l-zh-z),lush ice (phrase),chess (ch-s)
+581,lashed,latched,widget (w-j-t),legion head (phrase),Lesh Toad (l-sh-t-d)
+582,lotion,lesion,legion,ocean (o-sh-n),Lashon (l-sh-n)
+583,shame (sh-m),gem (j-m),lash mummy (phrase),leech map (phrase),Lash Mum (l-sh-m)
+584,ledger,leisure,usher (u-sh-r),share (sh-r),Lash Rare (l-sh-r)
+585,special (s-p-sh-l),legally shell (phrase),leash law (phrase),Lashley (l-sh-l)
+586,shave (sh-v),achieve (ch-v),leech foe (phrase),lush valley (phrase),Lash Foe (l-sh-f)
+587,shock (sh-k),lash hook (phrase),lush gig (phrase),Lash Key (l-sh-k)
+588,shush (sh-sh),judge (j-j),lush judge (phrase),leash shop (phrase),Lash Judge (l-sh-j)
+589,sheep (sh-p),job (j-b),lash back (phrase),leash pup (phrase),Lash B (l-sh-b)
+590,lips,labs,loops,lapse,lobes
+591,lipid,leapt,lobbied,lapidate (l-p-d-t),Laputa (l-p-t)
+592,Lebanon (l-b-n-n),lapwing (l-p-w-n),lap noon (phrase),cabin (k-b-n),La Opinión (l-p-n-n)
+593,poppy (p-p),lap mum (phrase),lip balm (phrase),lob mummy (phrase),La Pompe (l-p-m-p)
+594,labor,library,leper,labourer,leaper
+595,label,lapel,liable,lobelia,football (f-t-b-l)
+596,beef (b-f),leapfrog (l-p-f-r-g),lip view (phrase),lab foe (phrase),Lap Foe (l-p-f)
+597,payback (p-b-k),lip sync (l-p-s-n-k),lap coke (phrase),lip gloss (phrase),Lap Key (l-p-k)
+598,page (p-j),push (p-sh),lip shade (phrase),lab judge (phrase),Lap Judge (l-p-j)
+599,pipe (p-p),babe (b-b),lip balm (phrase),lab pup (phrase),Lap Pup (l-p-p)
+600,phases,physics,faces,fuses,visas
+601,fast,feast,fist,visit,voiced
+602,vision,fusion,fascinate (f-s-n-t),visayan (v-s-n),Faustian (f-s-t-n)
+603,fathom (f-th-m),face mummy (phrase),fizz mum (phrase),vis unum (phrase),Vesuvius Mum (v-s-v-s-m)
+604,visor,officer,fissure,Vassar (v-s-r),Vesuvius Rare (v-s-v-s-r)
+605,fossil,vessel,facial,fuselage (f-s-l-j),Vesuvius Law (v-s-v-s-l)
+606,face value (phrase),phase foe (phrase),visa view (phrase),vis vis (phrase),Vesuvius Foe (v-s-v-s-f)
+607,physique (f-z-k),viscid (v-s-k-d),face key (phrase),physics key (phrase),Vesuvius Key (v-s-v-s-k)
+608,visage,fish wash (phrase),face judge (phrase),fuzz judge (phrase),Vesuvius Judge (v-s-v-s-j)
+609,vespa (v-s-p),face up (phrase),fuzz ball (phrase),visa buy (phrase),Vesuvius B (v-s-v-s-b)
+610,fights,fits,fats,foetus,fades
+611,fated,footed,fitted,edit (d-t),food additive (phrase)
+612,vitamin,fatten,wooden,fade in (phrase),fifteen (f-f-t-n)
+613,fathom,phantom,item (t-m),vodun man (phrase),Fat Mum (f-t-m)
+614,father,fighter,footer,federate (f-d-r-t),Fido Rare (f-d-r)
+615,fiddle,fatal,vital,food hall (phrase),Fat Law (f-t-l)
+616,evotive (v-t-v),fade off (phrase),food view (phrase),evade foe (phrase),Fat Foe (f-t-f)
+617,vodka,fatigue,fat cat (phrase),attic (t-k),Fat Key (f-t-k)
+618,fetish,fetid judge (phrase),fade show (phrase),food judge (phrase),Fat Judge (f-t-j)
+619,bathtub (b-th-t-b),foot path (phrase),fade up (phrase),fat boy (phrase),Fat B (f-t-b)
+620,fans,fence,vans,finesse,Venice
+621,faint,find,fond,vent,found
+622,fenian (f-n-n),phonon (f-n-n),phone nun (phrase),noon (n-n),Finnian (f-n-n)
+623,venom,fin mum (phrase),phone map (phrase),enema (n-m),Fin Mum (f-n-m)
+624,finer,funerary (f-n-r-r),vine row (phrase),owner (n-r),Fin Rare (f-n-r)
+625,final,funnel,vinyl,finally,only (n-l)
+626,finish,vanish,fin view (phrase),envy (n-v),Fin Foe (f-n-f)
+627,funk,fang,vinegar,vengeance key (phrase),Fin Key (f-n-k)
+628,finish,vanish,change (ch-n-j),fin shape (phrase),Fin Judge (f-n-j)
+629,finback (f-n-b-k),fan belt (phrase),vine bud (phrase),wrap (r-p),Fin B (f-n-b)
+630,famous,fumes,foams,femmes,VIMS (abbrev.)
+631,famed,vomit,fomite (f-m-t),foam head (phrase),submit (s-b-m-t)
+632,foeman (f-m-n),vehement (v-m-n-t),human (h-m-n),Feminine (f-m-n-n)
+633,foam mummy (phrase),fame mum (phrase),my mom (m-m),Fam Mum (f-m-m)
+634,farmer,femur,fumarole (f-m-r-l),armor (r-m-r),Fam Rare (f-m-r)
+635,family,female,foam lily (phrase),animal (n-m-l),Fam Law (f-m-l)
+636,vomitive (v-m-t-v),fame foe (phrase),foam view (phrase),vim foe (phrase),Fam Foe (f-m-f)
+637,amic (m-k),foam key (phrase),fame gag (phrase),Fam Key (f-m-k)
+638,imagine (m-j-n),fame judge (phrase),foam shoe (phrase),Fam Judge (f-m-j)
+639,vamp,fumble,jump (j-m-p),chimp (ch-m-p),bomb (b-m)
+640,fires,force,virus,fears,various
+641,fruit,fort,ford,afraid,variety
+642,friend,fern,foreign,वर्ण (hindi?),iron (r-n)
+643,frame,farm,form,firm,forum
+644,farrier (f-r-r),फरवरी (hindi?),error (r-r),rare (r-r),Ferrara (f-r-r)
+645,feral,ferrule (f-r-l), अप्रैल (hindi?),mural (m-r-l),Farrell (f-r-l)
+646,verve,verify,forfeit,carve (k-r-v),afraid foe (phrase)
+647,fork,frog,fabric,freak,forget
+648,fresh,forge, फ्रिज (hindi?),marsh (m-r-sh),cherish (ch-r-sh)
+649,frappe,verb,frab (invented?),four-by (phrase),wrap (r-p)
+650,files,fleece,floss,false,villas
+651,flute,field,flat,fault,flood
+652,violin,villain,flan,flown,felony
+653,film,flame,volume,flume,phloem
+654,floor,flour,flyer,flare,failure
+655,fulfill,flail,fly low (phrase),awhile lull (phrase),loyal (l-l)
+656,valve,fluff,flivver (f-l-v-r),evolve,follow foe (phrase)
+657,flag,flake,flock,folk,flick
+658,flash,flush,flesh,village,stylish (s-t-l-sh)
+659,flip,flop,flap,flub,flabby
+660,fives,fiefs,vivace (v-v-ch),fuchsia ice (phrase),face view shows (phrase)
+661,vivacity (v-v-s-t),fifit (invented?),fife head (phrase),vivify tot (v-v-f-t)
+662,vivian (v-v-n),fife nun (phrase),view fan (phrase),vivify nun (v-v-f-n)
+663,vivarium map (phrase),fife home (phrase),view foam (phrase),vivify mum (v-v-f-m)
+664,viverra (v-v-r),fife rare (phrase),view fur (phrase),vivify rare (v-v-f-r)
+665,fife law (phrase),view foil (phrase),evolve fully (phrase),vivify law (v-v-f-l)
+666,fife (f-f),view foe's view (phrase),fife foe (phrase),vivify foe (v-v-f-f)
+667,vivify key (v-v-f-k),fife gag (phrase),view fog (phrase),vivify gag (v-v-f-g)
+668,vivace show (v-v-ch-sh),fife judge (phrase),view fish (phrase),vivify judge (v-v-f-j)
+669,fob off (phrase),fife pub (phrase),view fob (phrase),vivify B (v-v-f-b)
+670,fix,fox,focus,folks,ficus
+671,victim,affect,faked,evict,faculty
+672,vixen,falcon,vicuna (v-k-n),evoke nun (phrase),Viggan (v-g-n)
+673,vacuum (v-k-m),fig home (phrase),focus map (phrase),make (m-k),Vikas mum (v-k-s-m)
+674,figure,vigor,faker,Vickery (name),acre (k-r)
+675,vocal,vehicle,fecal,fickle,faculty law (phrase)
+676,evocative (v-k-t-v),evolve (v-l-v),fig leaf (phrase),fake fur (phrase),Vikas foe (v-k-s-f)
+677,cake (k-k),gag (g-g),fake cake (phrase),focus gag (phrase),evoke gag (phrase)
+678,fix judge (phrase),evoke show (phrase),fix share (phrase),Vikas judge (v-k-s-j)
+679,backup (b-k-p),fig bar (phrase),fake B (phrase),fix bug (phrase),Vikas B (v-k-s-b)
+680,fishes,visage ice (phrase),viscous chess (phrase),chess (ch-s),Vyshcha (v-sh?)
+681,fetched,facet,fish head (phrase),widget (w-j-t),Vishy dot (v-sh-d-t)
+682,fashion,vision,fusion,fission,ocean (o-sh-n)
+683,shame (sh-m),gem (j-m),fish home (phrase),fish mummy (phrase),Vishy mum (v-sh-m)
+684,fisher,feature,voucher,usher (u-sh-r),share (sh-r)
+685,official,facial,fish oil (phrase),special (s-p-sh-l),Vishy law (v-sh-l)
+686,shave (sh-v),achieve (ch-v),fish food (phrase),fish view (phrase),Vishy foe (v-sh-f)
+687,shock (sh-k),fish hook (phrase),fish cake (phrase),Vishy key (v-sh-k)
+688,shush (sh-sh),judge (j-j),fish judge (phrase),fish shop (phrase),Vishy judge (v-sh-j)
+689,sheep (sh-p),job (j-b),fish bowl (phrase),fish pie (phrase),Vishy B (v-sh-b)
+690,fibs,fobs,fabrics,phobos (f-b-s),Forbes (f-r-b-s)
+691,fibbed,fobbed,fabricate (f-b-r-k-t),teapot (t-p-t),Fab date (f-b-d-t)
+692,fifteen (f-f-t-n),fifteen now (phrase?),cabin (k-b-n),Fabian (f-b-n)
+693,poppy (p-p),fob mum (phrase),fab home (phrase),Fab mum (f-b-m)
+694,fiber,fabric,vapor,February (f-b-r-r),Fab rare (f-b-r)
+695,fable,feeble,football (f-t-b-l),flabby (f-l-b-b),maple (m-p-l)
+696,beef (b-f),fab view (phrase),fob foe (phrase),Fab foe (f-b-f)
+697,payback (p-b-k),fabric key (phrase),fab cook (phrase),Fab key (f-b-k)
+698,page (p-j),push (p-sh),fab show (phrase),fob judge (phrase),Fab judge (f-b-j)
+699,pipe (p-p),babe (b-b),fab pub (phrase),fob pocket (phrase),Fab B (f-b-b)
+700,cases,kisses,gases,gooses,excess
+701,cast,cost,quest,ghost,guest
+702,cousin,kazan (k-z-n),gazing (g-z-n),chasm (k-z-m),caisson (k-s-n)
+703,cosmos (k-z-m-s),gasm (g-z-m),kazoo man (phrase),geyser mum (phrase),awesome (s-m)
+704,quasar,Caesar,geyser,kisser,gazer
+705,castle,cancel,gazelle, एक्सेल (hindi?), एक्सेल (hindi?)
+706,accusive (k-s-v),case foe (phrase),keys view (phrase),ex vivo (phrase),quest foe (k-s-t-f)
+707,cask,biscuit (b-s-k-t),queso key (phrase),gas cook (phrase),ex con (phrase)
+708,गजेश (hindi?),cash cow judge (phrase),case judge (phrase),gazoo show (phrase),Cassius judge (k-s-sh-s-j)
+709,gasp,cusp,gazebo B (phrase),keys B (phrase),Casper (k-s-p-r)
+710,cats,goats,kids,gates,quotes
+711,cadet,coated,get it done (phrase),quota ticket (phrase),cat tot (k-t-t)
+712,cotton,kitten,garden,cadenza (k-d-n-z),Gideon (g-d-n)
+713,cadmium,cat home (phrase),get em (phrase),item (t-m),Gotham (g-th-m)
+714,guitar,cutter,cater,quarter,gather
+715,cattle,Godzilla (g-d-z-l),cuddle,catalogue (k-t-l-g),cutlass
+716,cutoff,catfish,active (k-t-v),getaway foe (phrase),God foe (g-d-f)
+717,cake,cook,kick,quick,cog
+718,catch,kitsch,gosh,good show (phrase),Gautier judge (g-t-j)
+719,ketchup,catapult,getup,puppet (p-p-t),cow tub (phrase)
+720,cans,coins,guns,cones,guineas
+721,count,cant,giant,gained,cannot
+722,cannon,canon,Kenyan nun (phrase),cocoon noon (k-k-n-n),Gannon (g-n-n)
+723,combine,condemn,economy (k-n-m),canyon map (phrase),Guen mum (g-n-m)
+724,corner,canary,gunner,genre,conjure
+725,canal,kennel,colonel,counsel,only (n-l)
+726,convoy,convince (k-n-v-n-s),canopy view (phrase),envy (n-v),Gwen foe (g-n-f)
+727,kangaroo,conk,conga,gunk,conic
+728,change,conch,cringe,Ganesh (g-n-sh),Ken judge (k-n-j)
+729,canopy,cannibal (k-n-b-l),gun buy (phrase),quinby (k-n-b),Ken B (k-n-b)
+730,games,cams,comes,gums,coma's
+731,comet,combat,combed,permit (p-r-m-t),submit (s-b-m-t)
+732,common,cayman,cinnamon (s-n-m-n),human (h-m-n),Gammon (g-m-n)
+733,calm mum (phrase),come home mummy (phrase),game mum (phrase),my mom (m-m),Gem mum (g-m-m)
+734,camera,commerce,comer,gamer,armor (r-m-r)
+735,camel,gamble,comely,animal (n-m-l),Gemmell (g-m-l)
+736,camp fire (phrase),game foe (phrase),come view (phrase),give move (phrase),Gem foe (g-m-f)
+737,comic,coming,gamma hook (phrase),mac (m-k),Gem key (g-m-k)
+738,comish (k-m-sh),game show (phrase),cam shaft (phrase),imagine (m-j-n),Gem judge (g-m-j)
+739,camp,comb,comp,gambit (g-m-b-t),Gambon (g-m-b-n)
+740,cars,course,gears,cares,grass
+741,cart,card,court,cord,crate
+742,corn,crane,crayon,crown,green
+743,cream,crime,chrome,cram, गर्म (hindi?)
+744,career,courier,grower,error (r-r),rare (r-r)
+745,crawl,grill,cruel,coral,curl
+746,craft,graph,carve,curve,grave
+747,crack,crook,creek,cork,ग्राहक (hindi?)
+748,crash,grudge,crush,gorge,cherish
+749,crab,grape,crib,grab,group
+750,glass,calls,gals,gulls,coals
+751,gold,cold,killed,guilt,collect
+752,gallon,clean,clown,clone,colony
+753,claim,calm,clam,column,climax
+754,color,collar,clear,caller,glare
+755,loyal (l-l),coal hole (phrase),call lily (phrase),cool law (phrase),Goll Goll (g-l-g-l)
+756,glove,cliff,calve,evolve (v-l-v),golf (g-l-f)
+757,clock,click,clog,cloak,glue kit (phrase)
+758,clash,goulash,clutch,polish (p-l-sh),Kluge (k-l-j)
+759,club,globe,clip,clap,gallop
+760,caves,gives,calves,goofs,coffee's
+761,gift,covet,coifed,cave dweller (phrase),craft (k-r-f-t)
+762,govern,given,cavern,coffee naan (phrase),often (f-t-n)
+763,cave home (phrase),coffee mug (phrase),give mum (phrase),gov mum (g-v-m)
+764,cover,gopher,caver,graver,confer
+765,gavel,cavil,careful (k-r-f-l),awful (f-l),Gov Law (g-v-l)
+766,fife (f-f),giveaway foe (phrase),cave view (phrase),coffee foe (phrase),Gov foe (g-v-f)
+767,evoke (v-k),give key (phrase),coffee cake (phrase),Gov key (g-v-k)
+768,shave (sh-v),cave fish (phrase),goshawk foe (phrase),give judge (phrase),Gov judge (g-v-j)
+769,backup (b-k-p),give up (phrase),coffee pot (phrase),cave boy (phrase),Gov B (g-v-b)
+770,cakes,cooks,kicks,geeks,coax
+771,cooked,kicked,केकड़ा (hindi?),attack (t-k),Cook date (k-k-d-t)
+772,cognac,coconut (k-k-n-t),cook nook (phrase),Cook nun (k-k-n)
+773,cake mix (phrase),cook mum (phrase),quack mum (phrase),Cook mum (k-k-m)
+774,cooker,conquer,kicker,quaker,acre (k-r)
+775,cackle,cockle,cycle (s-k-l),cog hill (phrase),Cook law (k-k-l)
+776,kickoff (k-k-f),cook foe (phrase),quick view (phrase),Cook foe (k-k-f)
+777,cake (k-k),gag (g-g),cake gag (phrase),cook geek (phrase),quick kick (phrase)
+778,kick shoe (phrase),cook judge (phrase),quick judge (phrase),Cook judge (k-k-j)
+779,backup (b-k-p),kick back (phrase),cook pot (phrase),kick up (phrase),Cook B (k-k-b)
+780,caches,cashews,gauchos,ages,chess (ch-s)
+781,cached,cashed,widget (w-j-t),catch it (phrase),Cash date (k-sh-d-t)
+782,kitchen,caution,cash in (phrase),ocean (o-sh-n),Cash nun (k-sh-n)
+783,shame (sh-m),gem (j-m),catch mum (phrase),cash map (phrase),Cash mum (k-sh-m)
+784,catcher,casher,usher (u-sh-r),share (sh-r),Cash rare (k-sh-r)
+785,casual,special (s-p-sh-l),cash loan (phrase),Cash law (k-sh-l)
+786,shave (sh-v),achieve (ch-v),cash flow (phrase),catch view (phrase),Cash foe (k-sh-f)
+787,shock (sh-k),cash cow (phrase),catch key (phrase),Cash key (k-sh-k)
+788,shush (sh-sh),judge (j-j),cash judge (phrase),catch judge (phrase),Cash judge (k-sh-j)
+789,sheep (sh-p),job (j-b),cash box (phrase),catchup boy (phrase),Cash B (k-sh-b)
+790,caps,cubs,cabs,copes,gypsum
+791,capitol,accept (k-s-p-t),copied,cubit,cupped
+792,cabin,coupon,cuban,combine (k-m-b-n),Capone (k-p-n)
+793,poppy (p-p),cap map (phrase),cab home (phrase),keep mum (phrase),Cap mum (k-p-m)
+794,caper,copper,keeper,cobra,cupbearer
+795,cable,couple,capable,cobble,goblin
+796,beef (b-f),cupful (k-p-f-l),cab fare (phrase),keep safe (phrase),Cap foe (k-p-f)
+797,cupcake,payback (p-b-k),keep key (phrase),cob cook (phrase),Cap key (k-p-k)
+798,cabbage,page (p-j),push (p-sh),cab charge (phrase),gob shut (phrase)
+799,cupboard,pipe (p-p),babe (b-b),cop car bobble (phrase),Cap B (k-p-b)
+800,chesses,choices,chases,juices,jesses
+801,chest,adjust,chaste,juiced,assist
+802,chosen,Jason (j-s-n),chasten (ch-s-n),ozone (z-n),Josian (j-s-n)
+803,chasm,chess mum (phrase),juice mummy (phrase),awesome (s-m),Jos mum (j-s-m)
+804,chaser,juicer,gesture,Caesar (s-z-r),Jos rare (j-s-r)
+805,chisel,jostle (j-s-l),Cecil (s-s-l),chess lull (phrase),Jos law (j-s-l)
+806,Josephus (j-s-f-s),judge foe (phrase),chess view (phrase),Jos foe (j-s-f)
+807,justify key (phrase),chess kit (phrase),chase geek (phrase),Jos key (j-s-k)
+808,sausage (s-s-j),chess judge (phrase),chase judge (phrase),Jos judge (j-s-j)
+809,Jasper (j-s-p-r),chesty B (phrase),adjust B (phrase),Jos B (j-s-b)
+810,sheets,shadows,shots,shades,judas
+811,shaded,shouted,judged,attitude (t-t-d),shoot out (phrase)
+812,shutdown,showdown,shotgun,station (s-t-sh-n),Sheehan (sh-n)
+813,showtime,item (t-m),shot mum (phrase),shadow map (phrase),She mum (sh-m)
+814,shooter,shutter,shader,shadow ray (phrase),She rare (sh-r)
+815,schedule,saddle (s-d-l),shot hole (phrase),shadow law (phrase),She law (sh-l)
+816,detach (d-t-ch),shade foe (phrase),shadow view (phrase),achieve dough (phrase),She foe (sh-f)
+817,attack (t-k),shoot key (phrase),shadow gag (phrase),She key (sh-k)
+818,stitch (s-t-ch),shade show (phrase),shadow judge (phrase),She judge (sh-j)
+819,sheep dip (sh-p-d-p),shot put (phrase),shade tub (phrase),She B (sh-b)
+820,chance,shines,shows noise (phrase),census (s-n-s-s),Shane ice (sh-n-s)
+821,chant,agent,shunt,joint,giant (j-n-t)
+822,Shannon (sh-n-n),onion (n-n),shinbone naan (phrase),Shane nun (sh-n-n)
+823,enema (n-m),shine map (phrase),show name (phrase),Shane mum (sh-n-m)
+824,joiner,shiner,owner (n-r),Shane rare (sh-n-r)
+825,channel,genial,only (n-l),Shane law (sh-n-l)
+826,launch (l-n-ch),envy (n-v),shin foe (phrase),shine view (phrase),Shane foe (sh-n-f)
+827,junk,chunk,shank,change key (phrase),Shane key (sh-n-k)
+828,change,chinchilla (ch-n-ch-l),shin judge (phrase),Shane judge (sh-n-j)
+829,wrap (r-p),chin up (phrase),shown boy (phrase),join path (phrase),Shane B (sh-n-b)
+830,shames,gems,James (j-m-z),shamus (sh-m-s),Shamu ice (sh-m-s)
+831,shamed,shmatte (sh-m-t),summit (s-m-t),Sham date (sh-m-d-t)
+832,showman,shaman,gemini (j-m-n),human (h-m-n),Sham nun (sh-m-n)
+833,my mom (m-m),shame mum (phrase),gem mum (phrase),Sham mum (sh-m-m)
+834,shimmer,armor (r-m-r),gemara (j-m-r),Sham rare (sh-m-r)
+835,shamble,animal (n-m-l),jam roll (phrase),Sham law (sh-m-l)
+836,imagine foe (phrase),shame foe (phrase),gem view (phrase),Sham foe (sh-m-f)
+837,make (m-k),shame gag (phrase),gem key (phrase),Sham key (sh-m-k)
+838,imagine (m-j-n),shame judge (phrase),gem show (phrase),Sham judge (sh-m-j)
+839,jump,shrimp,chimp,jumbo,bump
+840,shares,showers,cheers,chars,jurors
+841,chart,short,shared,cheroot (ch-r-t),Sheraton (sh-r-t-n)
+842,shrine,churn,shorn,journey,iron (r-n)
+843,charm,chairman,cherem (ch-r-m),arm (r-m),Sherman (sh-r-m-n)
+844,shearer,juror,error (r-r),rare (r-r),Sher rare (sh-r-r)
+845,Sherlock (sh-r-l-k),surely,charlie (ch-r-l),mural (m-r-l),Cheryl (sh-r-l)
+846,sheriff,sharpen foe (phrase),carve (k-r-v),Cher foe (sh-r-f)
+847,shark,shirk,jerk,cherokee (ch-r-k),Cher key (sh-r-k)
+848,charge,cherish,shirker judge (phrase),marsh (m-r-sh),Cher judge (sh-r-j)
+849,sharp,sherbet (sh-r-b-t),chirp,wrap (r-p),Cher B (sh-r-b)
+850,shells,jules,Chelsea's (ch-l-s-z),shows list (phrase),Shelley's (sh-l-z)
+851,shield,shelled,shalt,jolt,adult (d-l-t)
+852, जलन (hindi?), चलन (hindi?), जलन (hindi?), जलन (hindi?),Shelley nun (sh-l-n)
+853,llama (l-m),julep mix (phrase),chilling mum (phrase),show llama (phrase),Shelley mum (sh-l-m)
+854,jailer,chiller, ज्वेलर (hindi?), ज्वेलर (hindi?),Shelley rare (sh-l-r)
+855,loyal (l-l),show lily (phrase),chill law (phrase),shall lull (phrase),Shelley law (sh-l-l)
+856,shelf,shelve,evolve (v-l-v),chill foe (phrase),Shelley foe (sh-l-f)
+857,shock (sh-k),shlock (sh-l-k),shellac,jelly cake (phrase),Shelley key (sh-l-k)
+858,polish (p-l-sh),shell shock (phrase),chill judge (phrase),Shelley judge (sh-l-j)
+859,wallop (w-l-p),shell bank (phrase),chill B (phrase),Shelley B (sh-l-b)
+860,shoves,chefs,shaves,chiefs,achieve's
+861,shift,shaft,shoved,achieved,gift (g-f-t)
+862,chevron (sh-v-r-n),shaven,chief nun (phrase),often (f-t-n),Shev nun (sh-v-n)
+863,shove home (phrase),chief mum (phrase),achieve map (phrase),Shev mum (sh-v-m)
+864,shiver,shaver,achiever,cover (k-v-r),Shev rare (sh-v-r)
+865,shovel,awful (f-l),chief law (phrase),Shev law (sh-v-l)
+866,fife (f-f),achieve view (phrase),shave foe (phrase),Shev foe (sh-v-f)
+867,evoke (v-k),shove key (phrase),chief gag (phrase),Shev key (sh-v-k)
+868,shave shoe (phrase),shove judge (phrase),chief judge (phrase),Shev judge (sh-v-j)
+869,backup (b-k-p),shove up (phrase),chief pub (phrase),Shev B (sh-v-b)
+870,shacks,shocks,shakes,jokes,checks
+871,shocked,shakedown (sh-k-d-n),jacked,attack (t-k),shack door (phrase)
+872,chicken,shaken,check-in,jacana (j-k-n),Shaq nun (sh-k-n)
+873,checkmate,vacuum (v-k-m),shake home (phrase),shock map (phrase),Shaq mum (sh-k-m)
+874,shaker,joker,checker,acre (k-r),Shaq rare (sh-k-r)
+875,shackle,jackal,cycle (s-k-l),check law (phrase),Shaq law (sh-k-l)
+876,evolve (v-l-v),shake off (phrase),shock foe (phrase),check valve (phrase),Shaq foe (sh-k-f)
+877,cake (k-k),gag (g-g),shake shack (phrase),shock gag (phrase),check key gag (phrase)
+878,shake shack judge (phrase),shock judge (phrase),check change (phrase),Shaq judge (sh-k-j)
+879,shakeup,backup (b-k-p),shock bolt (phrase),check book (phrase),Shaq B (sh-k-b)
+880,shushes,show chess (phrase),josh ice (phrase),chess (ch-s),Shoji ice (sh-j-s)
+881,shushed,widget (w-j-t),judge sheet (phrase),Shoji dot (sh-j-d-t)
+882,ocean (o-sh-n),show shin (phrase),josh nun (phrase),Shoji nun (sh-j-n)
+883,shame (sh-m),gem (j-m),josh mum (phrase),shush mummy (phrase),Shoji mum (sh-j-m)
+884,josher,usher (u-sh-r),share (sh-r),shush roar (phrase),Shoji rare (sh-j-r)
+885,special (s-p-sh-l),judge shell (phrase),shush law (phrase),Shoji law (sh-j-l)
+886,shave (sh-v),shush foe (phrase),judge view (phrase),Shoji foe (sh-j-f)
+887,shock (sh-k),judge key (phrase),shush gag (phrase),Shoji key (sh-j-k)
+888,shush (sh-sh),judge (j-j),judge judge (phrase),shush judge (phrase),Shoji judge (sh-j-j)
+889,sheep (sh-p),job (j-b),judge B (phrase),shush boy (phrase),Shoji B (sh-j-b)
+890,ships,shops,chaps,jobs,gyps
+891,shipped,shaped,chopped,jabbed,accept (k-s-p-t)
+892,japan (j-p-n),shipping (sh-p-n),chop nun (phrase),cabin (k-b-n),Chapin (ch-p-n)
+893,poppy (p-p),shop map (phrase),ship home (phrase),Chap mum (ch-p-m)
+894,shipper,shopper,chopper,jabber,cobra (k-b-r)
+895,chapel,javelin (j-v-l-n),maple (m-p-l),shape ऑयल (hindi?),ship hole (phrase)
+896,beef (b-f),ship foe (phrase),shop view (phrase),Chap foe (ch-p-f)
+897,payback (p-b-k),ship back (phrase),shop key (phrase),Chap key (ch-p-k)
+898,ship shape,page (p-j),push (p-sh),shop judge (phrase),Chap judge (ch-p-j)
+899,pipe (p-p),babe (b-b),ship boy (phrase),shop B (phrase),Chap B (ch-p-b)
+900,pieces,basis,busses,bosses,physics (f-s-k-s)
+901,paste,best,bust,boost,priest
+902,basin,poison,bison,obscene (b-s-n),Payson (p-s-n)
+903,prism,possum,blossom,awesome (s-m),Paz mum (p-z-m)
+904,pacer,browser,passer,bazaar,poser
+905,pencil,puzzle,basil,parcel,bicycle
+906,positive (p-s-t-v),passive,abusive (b-s-v),pass fee (phrase),Paz foe (p-z-f)
+907,biscuit,basic,bask,physique (f-z-k),Paz key (p-z-k)
+908,passage,pasha judge (phrase),push show (phrase),boss judge (phrase),Paz judge (p-z-j)
+909,baseball, बेसबॉल (hindi?), बेसबॉल (hindi?), pass ball (phrase), पुष्प (hindi?)
+910,bats,boots,beads,pets,putts
+911,potato,bidet,putted,patted,beaded
+912,button,pattern,python,beaten,petition
+913,bottom,batman,bedtime,epitome (p-t-m),atom (t-m)
+914,butter,putter,better,powder,peddler
+915,bottle,battle,paddle,petal,poodle
+916,bathtub (b-th-t-b),positive (p-s-t-v),payday foe (phrase),put off (phrase),Bed foe (b-d-f)
+917, अटैक (hindi?), अटैक (hindi?), अटैक (hindi?), अटैक (hindi?), अटैक (hindi?)
+918,patch,badge,attach,potash,pushcart (p-sh-k-r-t)
+919,puppet,teapot,bathtub (b-th-t-b),pit stop (phrase),Bed B (b-d-b)
+920,pans,pens,beans,bones,pawns
+921,paint,pound,pant,bent,appoint
+922,banana,pinion (p-n-n),bonnie noon (phrase),noon (n-n),Penney nun (p-n-n)
+923,panorama,penny map (phrase),pin money (phrase),enema (n-m),Penney mum (p-n-m)
+924,banner,pioneer,painter,bonaire (b-n-r),owner (n-r)
+925,panel,penal,only (n-l),painfully (p-n-f-l),Penney law (p-n-l)
+926,punch,pinch,banish,finish (f-n-sh),envy (n-v)
+927,bank,panic,punk,pink,banquet
+928,punch,pinch,change (ch-n-j),banjo show (phrase),Penney judge (p-n-j)
+929,pinball,pin up (phrase),poncho buy (phrase),wrap (r-p),Penney B (p-n-b)
+930,beams,palms,poems,bums,bomb has (phrase)
+931,permit,pomade,submit (s-b-m-t),Bomb date (b-m-d-t)
+932,payment,Beaumont (b-m-n-t),poem noon (phrase),human (h-m-n),Bomb nun (b-m-n)
+933,my mom (m-m),pea mummy (phrase),bum home (phrase),Bomb mum (b-m-m)
+934,bomber,pamper,primer,armor (r-m-r),Bomb rare (b-m-r)
+935,bumble,pimply (p-m-p-l),animal (n-m-l),palm oil (phrase),Bomb law (b-m-l)
+936,bomb foe (phrase),bum view (phrase),pumice foe (phrase),Bomb foe (b-m-f)
+937,make (m-k),pumice key (phrase),palm key (phrase),Bomb key (b-m-k)
+938,imagine (m-j-n),bump show (phrase),palm shoe (phrase),Bomb judge (b-m-j)
+939,pump,pimp,bomb,bump,pipe map (phrase)
+940,purse,press,pairs,brass,browse
+941,part,port,bread,bird,proud
+942,brain,barn,burn,brown,prune
+943,broom,prime,perm,brim,apron map (phrase)
+944,prayer,bearer,prior,barrier,error (r-r)
+945,pearl,barrel,April,patrol,prolly
+946,brief,prove,probe,purview (p-r-v),brave (b-r-v)
+947,park,brick,bark,pork,break
+948,brush,bridge,broach, parish, marsh (m-r-sh)
+949,probe,prop,prep,barb,wrap (r-p)
+950,bells,pills,palace,pulse,bliss
+951,belt,bolt,pilot,build,plate
+952,balloon,plane,pelican,pylon,Poland
+953,plum,palm,blame,album,volume (v-l-m)
+954,pillar,polar,bowler,boiler,blur
+955,loyal (l-l),play lull (phrase),pale lily (phrase),ball law (phrase),Pell Mell (p-l-m-l)
+956,bluff,belief,pullover (p-l-v-r),evolve (v-l-v),Pyle foe (p-l-f)
+957,plug,block,black,plaque,bulk
+958,plush,publish,polish,splash,blush
+959,blip,bulb,blab,pulp,playboy
+960,beefs,puffs,paves,biophys (b-f-z),waves (w-v-z)
+961,paved,puffed,benefit (b-n-f-t),gift (g-f-t),Buffett (b-f-t)
+962,puffin,buffoon,pavement (p-v-m-n-t),often (f-t-n),Buff nun (b-f-n)
+963,pave home (phrase),beef mum (phrase),pavement map (phrase),Buff mum (b-f-m)
+964,puffer,beaver,prefer,braver,cover (k-v-r)
+965,powerful,playful,awful (f-l),Buff law (b-f-l)
+966,fife (f-f),beef foe (phrase),puff view (phrase),Buff foe (b-f-f)
+967,payback (p-b-k),beefcake (b-f-k-k),evoke (v-k),payoff key (phrase)
+968,shave (sh-v),beef shoe (phrase),pave judge (phrase),Buff judge (b-f-j)
+969,backup (b-k-p),payoff boy (phrase),beef pup (phrase),Buff B (b-f-b)
+970,books,box,bags,pigs,peaks
+971,pocket,bucket,baked,picked,packet
+972,bacon,beacon,pecan,pagan,pumpkin
+973,become,vacuum (v-k-m),pig home (phrase),peek map (phrase),Beck mum (b-k-m)
+974,baker,packer,poker,beggar,acre (k-r)
+975,buckle,pickle,bagel,cycle (s-k-l),Beck law (b-k-l)
+976,pickoff (p-k-f),evolve (v-l-v),paycheck foe (phrase),Beck foe (b-k-f)
+977,cake (k-k),gag (g-g),payback cake (phrase),pig gag (phrase),Beck key (b-k-k)
+978,package judge (phrase),book shelf (phrase),pig judge (phrase),Beck judge (b-k-j)
+979,pickup,backup,book bag (phrase),Beck B (b-k-b)
+980,bushes,pushes,peaches,beaches,pages
+981,pushed,bashed,poached,patched,widget (w-j-t)
+982,passion,potion,pigeon,option,ocean (o-sh-n)
+983,shame (sh-m),gem (j-m),push mum (phrase),beach map (phrase),Bash mum (b-sh-m)
+984,pressure (p-r-sh-r),pauper share (phrase),usher (u-sh-r),share (sh-r),Bash rare (b-sh-r)
+985,partial (p-r-sh-l),bushel,p슐리 (korean?), special (s-p-sh-l),Bash law (b-sh-l)
+986,shave (sh-v),achieve (ch-v),push off (phrase),beach view (phrase),Bash foe (b-sh-f)
+987,shock (sh-k),push key (phrase),page hook (phrase),Bash key (b-sh-k)
+988,shush (sh-sh),judge (j-j),page judge (phrase),push judge (phrase),Bash judge (b-sh-j)
+989,push-up,sheep (sh-p),job (j-b),page boy (phrase),Bash B (b-sh-b)
+990,babies,pipes,peeps,pop eyes (phrase),pupils
+991,puppet,pipette,bobbed,pooped,teapot (t-p-t)
+992,baboon,papen (invented?),pipe noon (phrase),cabin (k-b-n),Pippin (p-p-n)
+993,poppy (p-p),pipe bomb,pop home (phrase),Pip mum (p-p-m)
+994,paper,pepper,proper,prepare,cobra (k-b-r)
+995,people,pebble,pupil,paypal,maple (m-p-l)
+996,beef (b-f),pipe view (phrase),pop off (phrase),Pip foe (p-p-f)
+997,payback (p-b-k),paperwork key (phrase),pay peg (phrase),Pip key (p-p-k)
+998,page (p-j),push (p-sh),pop shop (phrase),pipe judge (phrase),Pip judge (p-p-j)
+999,popup (p-p-p),puppy (p-p),poppy (p-p),popeye (p-p),babe (b-b)
